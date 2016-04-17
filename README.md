@@ -1,1 +1,2 @@
 # Garza_CSCI2270_FinalProject
+Create a BST similar to that of assignment 7 but include new methods. This include a search algorithm which prints all of the titles above a certain ranking. An algorithm that can be used to insert your own ranking to the movie (aside from the IMDB ranking) and a boolean to see if you have seen the movie or not. A function that turns the tree into a ordered array. I will still need 2 more methods to implement into project
